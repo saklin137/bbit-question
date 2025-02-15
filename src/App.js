@@ -4,7 +4,7 @@ function App() {
   return (
     <div style={{padding:"5px"}}>
     <center>
-      <img src="bbit_logo.png" width="100px"/>
+      <img src="bbit_logo.png" width="100px" alt="bbitlogo"/>
       <p>
         <b>
           BUDGE BUDGE INSTITUTE OF TECHNOLOGY<br/>
@@ -36,7 +36,7 @@ function App() {
         <a href="/QS.pdf" target="blank">Download Question Paper</a><br/><br/>
         
       </div>
-      <iframe src="/QS.pdf" width="93%" height="800px"></iframe>
+      <iframe src="/QS.pdf" width="93%" height="800px" title="questionpdf"></iframe>
       </center>
     </div>
   );
