@@ -36,7 +36,7 @@ function App() {
         <a href="/QS.pdf" target="blank">Download Question Paper</a><br/><br/>
         
       </div>
-      <iframe src="/QS.pdf" width="93%" height="800px" title="questionpdf"></iframe>
+      <iframe src="/JS.pdf" width="93%" height="800px" title="questionpdf"></iframe>
       </center>
     </div>
   );
