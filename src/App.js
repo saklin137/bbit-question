@@ -12,7 +12,7 @@ function App() {
           Kolkata - 700 137, West Bengal, India<br/>
           Phone : 033 2482 0676 / 0670<br/>
           <a href="https://www.bbit.edu.in/">https://www.bbit.edu.in</a><br/>
-          Department of Computer Science & Engineering<br/>
+          Department of Computer Science & Engineering(Cyber Security)<br/>
           NBA (National Board of Accreditation) valid from Academic year 2020-2021 to 2023-2024 i.e upto 30/06/2024
         </b>
       </p>
@@ -21,10 +21,10 @@ function App() {
         <div className="Question" style={{border:"2px solid black",padding:"20px", width:"90%"}}>
         <div style={{display:"grid",gridTemplateColumns: "1fr 1fr", width: "100%"}}>
           <div style={{textAlign:"left",fontWeight:"bold"}}>
-            Stream : Computer Science & Engineering<br/>
+            Stream : Computer Science & Engineering(Cyber Security)<br/>
             Semester : 6<sup>th</sup><br/>
-            Paper Name : Computer Networks<br/>
-            Full Marks : 60
+            Paper Name : Database Management Lab<br/>
+            Full Marks : 40
           </div>
           <div style={{textAlign:"right",fontWeight:"bold"}}>
             <br/>Year : 3<sup>rd</sup><br/>
